@@ -24,7 +24,7 @@
     color: #1134A6;
     top: 12%;
     right: 30px;
-    /* border: 1px solid #1134A6; */
+    
     border-radius: 40%;
     cursor: pointer;
     transform: scale(2);
@@ -52,3 +52,4 @@
     margin-left: 10px;
     color: black;
 }
+
